@@ -1,4 +1,4 @@
-# 👁️ Drowsiness Detection System using Python and OpenCV
+#  Drowsiness Detection System using Python and OpenCV
 
 This project detects driver drowsiness using eye aspect ratio (EAR) through real-time webcam video. If the user's eyes remain closed beyond a threshold number of frames, a visual alert appears on the screen indicating drowsiness.
 
