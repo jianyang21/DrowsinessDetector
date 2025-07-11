@@ -4,7 +4,7 @@ This project detects driver drowsiness using eye aspect ratio (EAR) through real
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Real-time drowsiness detection using a webcam
 - Uses dlib facial landmark detection (68-point model)
@@ -14,7 +14,7 @@ This project detects driver drowsiness using eye aspect ratio (EAR) through real
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - Python
 - OpenCV
@@ -24,9 +24,3 @@ This project detects driver drowsiness using eye aspect ratio (EAR) through real
 - SciPy
 
 ---
-
-## 📂 Clone the Repository
-
-```bash
-git clone https://github.com/jingyang21/drowsiness-detection.git
-cd drowsiness-detection
